@@ -1,0 +1,17 @@
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/obj/Debug/netcoreapp2.1/libraryTester.csprojAssemblyReference.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/obj/Debug/netcoreapp2.1/libraryTester.csproj.CoreCompileInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/obj/Debug/netcoreapp2.1/libraryTester.AssemblyInfoInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/obj/Debug/netcoreapp2.1/libraryTester.AssemblyInfo.cs
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/libraryTester.deps.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/libraryTester.runtimeconfig.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/libraryTester.runtimeconfig.dev.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/libraryTester.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/libraryTester.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/stringModifierClassLibrary.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/bin/Debug/netcoreapp2.1/stringModifierClassLibrary.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/obj/Debug/netcoreapp2.1/libraryTester.csproj.CopyComplete
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/obj/Debug/netcoreapp2.1/libraryTester.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/libraryTester/obj/Debug/netcoreapp2.1/libraryTester.pdb
